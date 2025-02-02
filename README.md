@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshadow2005&show_icons=true&theme=tokyonight)
 
-![anime](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
+![](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenn-anino-a73b10349)
