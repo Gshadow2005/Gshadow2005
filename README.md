@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshadow2005&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gshadow2005&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![anime](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glenn-anino-a73b10349)
@@ -28,4 +28,4 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gshadow2005)
 
 ---
-⭐️ From [Glenn Mark Anino](https://github.com/Gshadow2005)
+
