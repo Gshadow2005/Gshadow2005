@@ -23,5 +23,3 @@
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gshadow2005&theme=react-dark)](https://github.com/Gshadow2005)
 ![](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
 
----
-
