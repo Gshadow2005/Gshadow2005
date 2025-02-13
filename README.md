@@ -19,6 +19,8 @@
 
 ## 📊 GitHub Stats
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshadow2005&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gshadow2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![stats](https://streak-stats.demolab.com?user=Gshadow2005&theme=tokyonight&hide_border=true)
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gshadow2005&theme=react-dark)](https://github.com/Gshadow2005)
 ![](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
 
