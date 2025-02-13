@@ -18,7 +18,6 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gshadow2005&theme=tokyonight)  
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshadow2005&show_icons=true&theme=tokyonight)
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gshadow2005&theme=react-dark)](https://github.com/Gshadow2005)
 ![](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
