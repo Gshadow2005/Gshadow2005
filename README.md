@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Glenn Mark Anino
-
 ## 🎓 About Me
 - Currently studying at the **University of Science and Technology of Southern Philippines**
 - In Cagayan de Oro
