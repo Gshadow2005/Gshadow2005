@@ -12,7 +12,7 @@
                                           ⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠄
 ```
 
-##  About Me
+##  About
 - Currently studying at the **University of Science and Technology of Southern Philippines**
 - In Cagayan de Oro
 - Always eager to learn and grow in the tech world
@@ -29,9 +29,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
-##  GitHub Stats
+##  Stats
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gshadow2005&show_icons=true&theme=tokyonight)
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gshadow2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gshadow2005&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gshadow2005&theme=react-dark)](https://github.com/Gshadow2005)
 ![](https://count.getloli.com/get/@Gshadow2005?theme=rule34)
 
