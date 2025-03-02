@@ -14,7 +14,7 @@
 
 ##  About
 - Studying at the **University of Science and Technology of Southern Philippines**
-- Cagayan de Oro
+- Cagayan de Oro City
 - Eager to learn and grow in the tech world
 
 ##  Tech Stack
