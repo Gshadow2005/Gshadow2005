@@ -15,7 +15,7 @@
 ##  About
 - Studying at the **University of Science and Technology of Southern Philippines**
 - Cagayan de Oro City
-- Eager to learn and grow in the tech world
+- Learning in the tech world
 
 ##  Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
