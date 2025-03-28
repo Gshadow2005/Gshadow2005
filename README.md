@@ -13,6 +13,7 @@
 ```
 
 ##  About
+- I'm Glenn Mark Anino
 - Studying at the **University of Science and Technology of Southern Philippines**
 - Cagayan de Oro City
 - Learning in the tech world
