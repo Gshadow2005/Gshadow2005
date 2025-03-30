@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;USTP+Cagayan+de+Oro;Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;USTP+Cagayan+de+Oro;Learning+%26+Building;Bisaya+Language" alt="Typing SVG" />
 </div>
 
 ### About Me
