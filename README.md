@@ -1,5 +1,4 @@
 ```
-                                                              ⠅⠁⠏⠕⠽⠁
 ```
 # I'm Glenn Mark Anino
 
