@@ -37,7 +37,7 @@ class DeveloperProfile:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gshadow2005&theme=github-dark-blue&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gshadow2005&theme=github-dark-blue&hide_border=true" alt="" />
 </div>
 
 ---
