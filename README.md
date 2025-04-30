@@ -35,21 +35,19 @@ class DeveloperProfile:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gshadow2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gshadow2005&layout=compact&theme=github_dark&hide_border=true" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gshadow2005&theme=github-dark-blue&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gshadow2005&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
----
-
+### Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gshadow2005/Gshadow2005/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gshadow2005/Gshadow2005/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gshadow2005/Gshadow2005/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 <div align="center">
   <img src="https://count.getloli.com/get/@Gshadow2005?theme=rule34" alt="Visitor Counter" />
 </div>
-
