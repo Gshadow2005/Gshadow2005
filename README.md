@@ -9,7 +9,7 @@ class DeveloperProfile:
         self.name = "Glenn Mark Anino"
         self.education = "University of Science and Technology of Southern Philippines"
         self.location = "Cagayan de Oro City"
-        self.interests = ["Web Development", "etc"]
+        self.interests = ["Web Development", "her"]
         
     def current_focus(self):
         return "Expanding my programming knowledge and building practical projects"
