@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FADCF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;USTP+Cagayan+de+Oro;Learning+%26+Building;Bisaya+Language" alt="Typing SVG" />
-</div>
+</div> -->
 
-### About Me
+<!-- ### About Me -->
 ```python
 class DeveloperProfile:
     def __init__(self):
@@ -15,7 +15,7 @@ class DeveloperProfile:
         return "Expanding my programming knowledge and building practical projects"
 ```
 
-### Tech Stack
+<!--### Tech Stack
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -47,7 +47,7 @@ class DeveloperProfile:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gshadow2005/Gshadow2005/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gshadow2005/Gshadow2005/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://count.getloli.com/get/@Gshadow2005?theme=rule34" alt="Visitor Counter" />
